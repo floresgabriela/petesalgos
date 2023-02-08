@@ -184,8 +184,6 @@ Once the user has submitted their comment, it will appear under the comment sect
 [![Product Name Screen Shot][product-screenshot7]](https://example.com)
 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
